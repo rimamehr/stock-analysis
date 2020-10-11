@@ -22,4 +22,4 @@ In our images below are the results from our original code prior to the refactor
 
 
 ### A Deeper look into our Original Code vs Refactored code
-Original Code <img src="/Resources/Original Script.png" width="400"/> Refactored Code <img src="/Resources/Refactored Script.png" width="500"/>
+<img src="/Resources/Original Script.png" width="400"/> <img src="/Resources/Refactored Script.png" width="500"/>
