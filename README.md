@@ -11,3 +11,6 @@ We have also provided below a snapshot of the time it took our code to run. Thes
 
 
 <img src="/Resources/VBA_Challenge_2017.png" width="400"/> <img src="/Resources/VBA_Challenge_2018.png" width="400"/>
+
+
+<img src="/Resources/VBA_Challenge_2017(old code).png" width="400"/> <img src="/Resources/VBA_Challenge_2018(old code).png" width="400"/>
