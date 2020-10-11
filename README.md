@@ -24,5 +24,6 @@ In our images below are the results from our original code prior to the refactor
 ### A Deeper look into our Original Code vs Refactored code
 #### Original VBA code
 <img src="/Resources/Original Script.png" width="400"/> 
+
 #### Refactored VBA code
 <img src="/Resources/Refactored Script.png" width="500"/>
