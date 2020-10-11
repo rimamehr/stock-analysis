@@ -27,3 +27,11 @@ In our images below are the results from our original code prior to the refactor
 
 #### Refactored VBA code
 <img src="/Resources/Refactored Script.png" width="500"/>
+
+## Summary
+### What exactly is Refactoring?
+Code Refactoring is a way of restructuring and optimizing existing code without changing its behavior. It is a way to improve the code quality. 
+#### Advantages of Refactoring 
+A refactored code is easier to understand or read, less complex and easier to maintain. If we see the code repeating it self, then we know there is a better way to writing the code and that it needs refactoring. Refactoring the code lessens our run time making it more efficient specially when we are working with larger data sets.
+### Disadvantages of Refactoring
+With every advantage there has to be some disatange to it. Refactoring the code can get sometimes messy and specially when we are bound by a deadline, its better to deliver a working code than trying to refactor a code last minute and deliver a broken one if refactoring is not completed timely. 
