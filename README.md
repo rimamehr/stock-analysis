@@ -19,3 +19,7 @@ In our images below are the results from our original code prior to the refactor
 
 
 <img src="/Resources/VBA_Challenge_2017(old code).png" width="400"/> <img src="/Resources/VBA_Challenge_2018(old code).png" width="400"/>
+
+
+### A Deeper look into our Original Code vs Refactored code
+<img src="/Resources/Original Script.png" width="400"/> <img src="/Resources/Refactored Script.png" width="400"/>
