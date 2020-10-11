@@ -7,4 +7,4 @@ Steve wants to find the total daily volume and yearly return for each stock in h
 ## Results
 
 
-![GitHub Logo](/resources/VBA_Challenge_2017)
+![GitHub Logo](/resources/VBA_Challenge_2017.png)
